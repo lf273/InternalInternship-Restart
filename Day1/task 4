@@ -1,0 +1,34 @@
+# Day 1 Documentation
+
+## 1. What I Installed
+
+During Day 1, I installed and verified a C compiler on my computer. I also set up Git and configured access to GitHub for version control and project management.
+
+## 2. What I Learned
+
+During Day 1, I learned the basics of the C programming language, including how to create, compile, and run a simple Hello World program. I also learned the fundamentals of Git and GitHub, such as cloning repositories, creating commits, pushing changes, and working with branches.
+
+## 3. Tasks Completed
+
+* Installed and verified a C compiler.
+* Created and executed a Hello World program in C.
+* Installed and configured Git.
+* Connected Git with GitHub.
+* Practiced basic Git commands (clone, add, commit, push).
+* Worked on the assigned Day 1 exercises.
+
+## 4. Branch Used
+
+I used my personal branch for all Day 1 activities and commits.
+
+## 5. Difficulties Encountered
+
+At the beginning, I had some difficulties understanding the Git workflow and remembering the correct commands. However, after practicing, I became more comfortable using Git and GitHub.
+
+## 6. Areas Better Understood and Less Understood
+
+I now have a better understanding of creating and running C programs, as well as basic Git operations. I still need more practice with advanced Git features and branch management.
+
+## Conclusion
+
+Day 1 helped me understand the basic development environment, C programming fundamentals, and the Git/GitHub workflow that will be used throughout the internship.
